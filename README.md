@@ -1,4 +1,4 @@
-![Jonathan Damone]( )
+![Jonathan Damone](https://github.com/jonathan2503/jonathan2503/blob/279a7d5f879e57627bc7ebc3147c07f1dfe60aa2/foto/HD-wallpaper-city-cyber-night-digital-art-digital-art-artist-artwork.jpg )
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Jonathan Damone</h2>
 
