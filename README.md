@@ -22,10 +22,12 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![ASM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=assemblyscript&logoColor=00599C)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=velog&logoColor=00599C)&nbsp;
 #### Tools
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Xubuntu](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=ubuntu)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
