@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at Jonathan.damone25@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/jonathan2503/jonathan2503/blob/8da1183fc58f5a4d5dd8528020483ca0e6313e69/foto/monkey-developer.gif" align="right"/>
 
 ### &nbsp;Tech Stack
 
